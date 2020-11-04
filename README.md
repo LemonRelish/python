@@ -1,3 +1,3 @@
-# python39
+# python
 git入门
 
